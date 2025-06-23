@@ -39,7 +39,7 @@ The FLOOF License (Freedom-Loving Open Original Framework) v1.2 is a modern, per
 
 ## Licensor Contact Information
 Matthew Gallon under the Freedom-Loving Open Original Framework Organization
-Email: mailto:theopenfloof@proton.me  
+Email: theopenfloof@proton.me  
 GitHub: https://github.com/Freedom-Loving-Open-Original-Framework
 
 ---
