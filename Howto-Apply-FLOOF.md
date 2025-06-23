@@ -1,4 +1,4 @@
-# HOWTO-APPLY-FLOOF
+# How To Apply FLOOF
 
 ## Overview
 
